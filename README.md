@@ -22,10 +22,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Baima27&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Baima27&layout=compact&theme=radial&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
+</p>
 
 ---
 
