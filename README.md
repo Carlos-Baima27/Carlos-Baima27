@@ -35,9 +35,10 @@
 
 ### 🏆 Projetos em Destaque
 
-*   🏗️ **Obra Control:** Aplicação web para gestão de obras e apartamentos, desenvolvida com Java, Thymeleaf e Bootstrap.
-*   📦 **Plataforma de Despacho (Motoboys):** Sistema web integrado que processa detalhes de pedidos via WhatsApp para coordenar entregas e despachar motoboys de forma eficiente.
-*   ⚡ **Primeiro Projeto Vite:** Aplicação Front-end moderna estruturada com Vite para otimização de build e desenvolvimento ágil.
+* 🌦️ **Clima:** Aplicação web de consulta climática em tempo real por cidade, integrando API externa para exibição de temperatura, umidade, vento e precipitação.
+* 🏗️ **Obra Control:** Sistema web completo desenvolvido como TCC para gestão de obras e controle de avanço de instalação de portas em apartamentos.
+* 💳 **Painel Financeiro (Controle de Despesas):** Painel responsivo para gerenciamento de finanças pessoais, permitindo cadastro de gastos, validação de dados e acompanhamento de totais e despesas recentes.
+* 📚 **Sistema Acadêmico:** API RESTful robusta para gerenciamento acadêmico, permitindo o cadastro completo (CRUD) de alunos, lançamento de notas e consulta de médias.
 
 ---
 
